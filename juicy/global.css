@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-modern-antiqua: "Modern Antiqua";
+    --font-modak: Modak;
+    --font-passion-one: "Passion One";
+    --font-molle: Molle;
+    --font-passero-one: "Passero One";
+    --font-pathway-gothic-one: "Pathway Gothic One";
+    --font-gravitas-one: "Gravitas One";
+  
+    /* font sizes */
+    --font-size-45xl: 64px;
+    --font-size-21xl: 40px;
+    --font-size-29xl: 48px;
+    --font-size-17xl: 36px;
+    --font-size-13xl: 32px;
+  
+    /* Colors */
+    --color-black: #000;
+    --color-gold: #ffc700;
+    --color-gainsboro: #d9d9d9;
+    --color-orangered: #f24e1e;
+  
+    /* Border radiuses */
+    --br-21xl: 40px;
+    --br-114xl: 133px;
+  }
+  

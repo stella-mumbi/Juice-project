@@ -1,0 +1,35 @@
+{
+    "juices": [
+      {
+        "name": "Orange Juice",
+        "ingredients": ["Oranges"],
+        "price": 2.99
+      },
+      {
+        "name": "Apple Juice",
+        "ingredients": ["Apples"],
+        "price": 3.49
+      },
+      {
+        "name": "Pineapple Juice",
+        "ingredients": ["Pineapples"],
+        "price": 4.25
+      },
+      {
+        "name": "Carrot Juice",
+        "ingredients": ["Carrots"],
+        "price": 3.75
+      },
+      {
+        "name": "Watermelon Juice",
+        "ingredients": ["Watermelons"],
+        "price": 5.15
+      },
+      {
+        "name": "Mango Juice",
+        "ingredients": ["Mangoes"],
+        "price": 4.99
+      }
+    ]
+  }
+  

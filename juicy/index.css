@@ -1,0 +1,418 @@
+.desktop-2-child {
+    position: absolute;
+    top: 51px;
+    left: 69px;
+    width: 1431px;
+    height: 140px;
+    object-fit: cover;
+  }
+  .menu {
+    top: 44px;
+    left: 1051px;
+    font-size: var(--font-size-13xl);
+    font-family: var(--font-gravitas-one);
+    width: 220px;
+    height: 69px;
+  }
+  .barida-juicy,
+  .login,
+  .menu,
+  .order-now {
+    position: absolute;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .login {
+    top: 44px;
+    left: 1295px;
+    font-size: var(--font-size-13xl);
+    font-family: var(--font-gravitas-one);
+    color: #f0f;
+    width: 190px;
+    height: 63px;
+  }
+  .barida-juicy,
+  .order-now {
+    top: 51px;
+    left: 236px;
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-modak);
+    width: 208px;
+    height: 57px;
+  }
+  .order-now {
+    top: 638px;
+    left: 332px;
+    font-size: var(--font-size-13xl);
+    font-family: var(--font-gravitas-one);
+    color: var(--color-gold);
+    width: 266px;
+    height: 60px;
+  }
+  .welcome-to-our {
+    margin: 0;
+  }
+  .blank-line {
+    margin: 0;
+    font-size: var(--font-size-29xl);
+    color: #ff8577;
+    font-family: var(--font-passero-one);
+  }
+  .quench-your-thirst-and-indulge {
+    margin: 0;
+    color: var(--color-black);
+  }
+  .welcome-to-our-container1 {
+    width: 100%;
+  }
+  .welcome-to-our-container {
+    position: absolute;
+    top: 156px;
+    left: 94px;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    width: 669px;
+    height: 427px;
+    color: var(--color-orangered);
+    font-family: var(--font-passion-one);
+  }
+  .image-4-icon {
+    position: absolute;
+    top: 177px;
+    left: 815px;
+    width: 670px;
+    height: 437px;
+    object-fit: cover;
+  }
+  .why-you-should {
+    margin: 0;
+    font-family: var(--font-passion-one);
+  }
+  .our-juices-are {
+    margin: 0;
+    font-size: var(--font-size-17xl);
+    font-family: var(--font-pathway-gothic-one);
+  }
+  .why-you-should-container {
+    position: absolute;
+    top: 855px;
+    left: 94px;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    width: 491px;
+    height: 530px;
+    font-size: var(--font-size-29xl);
+    font-family: var(--font-passero-one);
+  }
+  .desktop-2-inner,
+  .desktop-2-item,
+  .rectangle-icon {
+    position: absolute;
+    top: 812px;
+    left: 1219px;
+    border-radius: var(--br-114xl);
+    width: 266px;
+    height: 344px;
+    object-fit: cover;
+  }
+  .desktop-2-inner,
+  .rectangle-icon {
+    top: 995px;
+    left: 930px;
+    height: 361px;
+  }
+  .rectangle-icon {
+    top: 832px;
+    left: 641px;
+    height: 344px;
+  }
+  .explore-best-menu-container {
+    position: absolute;
+    top: 1425px;
+    left: 94px;
+    font-size: var(--font-size-29xl);
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    font-family: var(--font-modak);
+    display: flex;
+    align-items: center;
+    width: 450px;
+    height: 152px;
+  }
+  .description-of-the-item {
+    margin: 0;
+    font-size: var(--font-size-13xl);
+    font-family: var(--font-modern-antiqua);
+  }
+  .span {
+    color: var(--color-black);
+  }
+  .ksh80 {
+    margin: 0;
+    color: var(--color-orangered);
+  }
+  .mango-bliss-burst-container {
+    position: absolute;
+    top: 2030px;
+    left: 544px;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    width: 480px;
+    height: 196px;
+    font-size: var(--font-size-29xl);
+    font-family: var(--font-modak);
+  }
+  .image-6-icon,
+  .image-7-icon {
+    position: absolute;
+    top: 1567px;
+    left: 585px;
+    border-radius: var(--br-21xl);
+    width: 451px;
+    height: 480px;
+    object-fit: cover;
+  }
+  .image-7-icon {
+    left: 1049px;
+    width: 436px;
+    height: 470px;
+  }
+  .pure-kiwi-joy {
+    margin: 0;
+    font-size: var(--font-size-29xl);
+    font-family: var(--font-modak);
+  }
+  .orange-fresh-juice-container,
+  .pure-kiwi-joy-container {
+    display: flex;
+    align-items: center;
+    font-size: var(--font-size-13xl);
+  }
+  .pure-kiwi-joy-container {
+    position: absolute;
+    top: 2013px;
+    left: 94px;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    width: 446px;
+    height: 228px;
+  }
+  .orange-fresh-juice-container {
+    top: 2097px;
+    left: 1056px;
+    width: 422px;
+    height: 60px;
+  }
+  .contact-us,
+  .orange-fresh-juice-container,
+  .send-us-a {
+    position: absolute;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+  }
+  .contact-us {
+    top: 2281px;
+    left: 149px;
+    font-family: var(--font-modak);
+  }
+  .send-us-a {
+    top: 2355px;
+    left: 133px;
+    font-size: var(--font-size-17xl);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 328px;
+    height: 68px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 2449px;
+    left: 143px;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-gainsboro);
+    width: 510px;
+    height: 100px;
+  }
+  .full-name {
+    position: absolute;
+    top: 2470px;
+    left: 207px;
+    font-size: var(--font-size-21xl);
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    font-family: var(--font-molle);
+  }
+  .desktop-2-child1 {
+    position: absolute;
+    top: 2595px;
+    left: 141px;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-gainsboro);
+    width: 528px;
+    height: 104px;
+  }
+  .your-email {
+    position: absolute;
+    top: 2616px;
+    left: 202px;
+    font-size: var(--font-size-21xl);
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    font-family: var(--font-molle);
+  }
+  .desktop-2-child2 {
+    position: absolute;
+    top: 2739px;
+    left: 141px;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-gainsboro);
+    width: 666px;
+    height: 224px;
+  }
+  .about-us,
+  .home,
+  .your-message {
+    position: absolute;
+    top: 2833px;
+    left: 205px;
+    font-size: var(--font-size-21xl);
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    font-family: var(--font-molle);
+  }
+  .about-us,
+  .home {
+    top: 53px;
+    left: 492px;
+    font-size: var(--font-size-29xl);
+    font-family: var(--font-passion-one);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 149px;
+    height: 42px;
+  }
+  .about-us {
+    left: 773px;
+    width: 145px;
+    height: 40px;
+  }
+  .desktop-2-child3 {
+    position: absolute;
+    top: 3030px;
+    left: 173px;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-gold);
+    width: 277px;
+    height: 96px;
+  }
+  .submit {
+    position: absolute;
+    top: 3048px;
+    left: 237px;
+    font-size: var(--font-size-29xl);
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    font-family: var(--font-passion-one);
+  }
+  .gradient-icon {
+    position: absolute;
+    top: 3213px;
+    left: 225px;
+    width: 97px;
+    height: 48px;
+    object-fit: cover;
+  }
+  .sitemap {
+    top: 2257px;
+    left: 967px;
+    font-family: var(--font-modak);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 316px;
+    height: 112px;
+  }
+  .all-our-pages,
+  .home-about-us-container,
+  .sitemap {
+    position: absolute;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+  }
+  .all-our-pages {
+    top: 2360px;
+    left: 1005px;
+    font-size: var(--font-size-21xl);
+  }
+  .home-about-us-container {
+    top: 2385px;
+    left: 903px;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    width: 552px;
+    height: 578px;
+  }
+  .image-8-icon {
+    position: absolute;
+    top: 3171px;
+    left: 485px;
+    width: 90px;
+    height: 59px;
+    object-fit: cover;
+  }
+  .div {
+    position: absolute;
+    top: 3166px;
+    left: 633px;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+  }
+  .image-9-icon {
+    position: absolute;
+    top: 3276px;
+    left: 485px;
+    width: 105px;
+    height: 63px;
+    object-fit: cover;
+  }
+  .xyzgamilcom {
+    position: absolute;
+    top: 3275px;
+    left: 633px;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+  }
+  .image-5-icon {
+    position: absolute;
+    top: 1568px;
+    left: 120px;
+    border-radius: var(--br-21xl);
+    width: 440px;
+    height: 462px;
+    object-fit: cover;
+  }
+  .desktop-2 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 3377px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-45xl);
+    color: var(--color-black);
+    font-family: var(--font-modern-antiqua);
+  }
+  
